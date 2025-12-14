@@ -4,7 +4,7 @@ I'm Saniya Inayath
 
 🟣 **Cyber Techie | Aspiring Purple Teamer**
 
-I’m a Cyber Techie with a growing interest in **Purple Teaming**, where I focus on understanding how attacks happen and how they can be detected, analyzed, and mitigated.
+A Cyber Techie with a growing interest in **Purple Teaming**, where I focus on understanding how attacks happen and how they can be detected, analyzed, and mitigated.
 
 I’m currently learning, experimenting, and **documenting my cybersecurity journey** through hands-on labs, security testing projects, and small tools as I progress.
 
