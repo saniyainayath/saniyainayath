@@ -1,4 +1,6 @@
-# Hey Folks, 👋 I'm Saniya Inayath
+# Hey Folks👋 
+
+I'm Saniya Inayath
 
 🟣 **Cyber Techie | Aspiring Purple Teamer**
 
